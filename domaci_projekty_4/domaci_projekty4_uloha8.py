@@ -1,2 +1,2 @@
 for i in range(5):
-    print(str(i) + ' na druhou je ' + str(i ** 2))
+    print(i, 'na druhou je', str(i ** 2))

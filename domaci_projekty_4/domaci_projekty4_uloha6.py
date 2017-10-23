@@ -1,2 +1,2 @@
 for i in range(5):
-    print('Řádek ' + str(i))
+    print('Řádek', i)
